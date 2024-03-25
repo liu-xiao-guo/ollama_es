@@ -1,0 +1,16 @@
+huggingface-hub
+sentence-transformers
+
+Flask==2.0.1
+Werkzeug==2.2.2
+flask-cors
+
+langchain==0.1.11
+elasticsearch==8.12.1
+tiktoken
+unstructured
+unstructured[local-pdf]
+unstructured[local-inference]
+
+python-dotenv
+langchain-community
